@@ -1,0 +1,30 @@
+
+@media screen and (max-width:480px){
+    h1.heading{
+        margin-left: 10px;
+        margin-top: 20px;
+        font-size:40px;
+    }
+    
+
+}
+@media screen and (min-width: 600px) and (max-width: 1024px){
+    h1.heading{
+       margin-left: 45px;
+        margin-top: 20px;
+        font-size:40px;
+    }
+}
+.heading{
+    margin-left:13rem;
+    margin-top:3.5rem;
+}
+.button{
+    background-color: #d0b200;
+    border-color: transparent;
+    height:50px;
+    width:100px;
+    cursor: pointer;
+    color:white;
+
+}
